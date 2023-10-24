@@ -26,8 +26,9 @@ When the user fills the contact form, the user inputs should go to the backend a
 4. Configure gitignore such that rough.txt is not pushed when `git push` is run.
 5. Learn about CORS on your own and fix the CORS bug in the index.js file.
 6. Check in the frontend that the user email is valid.
-7. Write a unit test to see if the invalid email is caught up or not.
-8. Write a blog on Hashnode sharing all your learnings and tag SheSharp there.(optional)
+7. remove all warnings from the console.
+8. Write a unit test to see if the invalid email is caught up or not.
+9. Write a blog on Hashnode sharing all your learnings and tag SheSharp there.(optional)
 
 ## Steps
 
